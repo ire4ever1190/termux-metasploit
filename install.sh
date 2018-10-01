@@ -44,7 +44,7 @@ echo "Press CTRL + C if you Disagree / Cancel Install"
 read ENTER
 
 echo "####################################"
-apt install autoconf bison clang coreutils curl findutils git apr apr-util libffi-dev libgmp-dev libpcap-dev postgresql-dev readline-dev libsqlite-dev openssl-dev libtool libxml2-dev libxslt-dev ncurses-dev pkg-config postgresql-contrib wget make ruby-dev libgrpc-dev ncurses-utils termux-tools -y
+apt install autoconf bison clang coreutils curl findutils git apr apr-util libffi-dev libgmp-dev libpcap-dev postgresql-dev readline-dev libsqlite-dev openssl-dev libtool libxml2-dev libxslt-dev ncurses-dev pkg-config postgresql wget make ruby-dev libgrpc-dev ncurses-utils termux-tools -y
 echo "####################################"
 echo "Downloading & Extracting....."
 
